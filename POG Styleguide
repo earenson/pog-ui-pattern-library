@@ -1,0 +1,85 @@
+1. Page Layouts
+	
+	a. Blog
+	b. Bureau Home
+	c. Calendar
+	d. Outline
+	e. Outline with TOC
+	f. Project/Program
+	g. Site Map
+	h. Sub Page
+	i. Trackit
+	j. Wrap
+
+1. Buttons
+	
+2. Forms
+
+3. Typography
+
+	a. H1
+		<h1>Lorem ipsum dolor</h1>
+		h1{
+			font-size: 20px;
+			line-height: 1em;
+			padding: 5px 9px;
+			margin-bottom: 18px;
+			color: #000;
+		}
+	b. H2
+		<h2>Lorem ipsum dolor</h2>
+		h2{}
+		body #modal_popup #content h2{
+			font-size: 1.8em;
+		}
+		.program .widget.contact h2,
+		.program .widget.contact p{
+		    font-size: 1.1em !important;
+		    color: #333;
+		}
+		#content-wrap ul.outline h2 a,
+		#content-wrap ul.outline h3 a{
+    		background-color: #FFF; padding: 2px 8px 2px 4px;
+    		color: #333;
+    		line-height: 23px;
+		}
+	c. H3
+	d. H4
+	e. H5
+	f. H6
+	g. p
+		.p27{font-size: 1.24em; color: #000}
+	h. a (and various states)
+
+4. Lists
+
+	a. UL
+	b. OL
+
+5. Grouped Content & Widgets
+
+	a. Featured
+	b. Connect
+	c. I Want To
+	d. News
+	e. Events
+	f. Youtube
+	g. Twitter Stream
+	h. Facebook Feed
+	i. Facebook Photos
+	j. Flickr Photos
+	k. Most Popular
+	l. Most Recent
+
+6. Icons
+
+7. Navigation
+
+	a. Main Navigation
+	b. Section Navigation
+
+8. Colors
+
+	a. Bureau Color Schemes
+	b. Links
+
