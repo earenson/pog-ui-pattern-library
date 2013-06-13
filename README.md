@@ -27,4 +27,4 @@ The purpose is to:
 - Review buttons and forms (there may not be any applicableat the moment)
 - Review icons
 - Review colors
-- Ensure all styles are not dependent on main.css
+- Insure all styles are not dependent on main.css
